@@ -1,5 +1,5 @@
 <img align="right" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="280" height="230"  />
-<h2>☄️ Hey! I'm Betül.</h2>
+<h2> Hey! I'm Betül.</h2>
 
 -I am a graduate of Kütahya Dumlupınar University Computer Engineering.
 
