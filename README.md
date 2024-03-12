@@ -7,8 +7,6 @@
 
 * I continue my career as a frontend developer.
 
-* I'm currently gaining experience by learning JavaScript and developing projects :)
-
 * 💬  Ask me about  HTML, CSS, JavaScript, React JS
 
 * 📫  How to reach me **betul.bzengin@gmail.com**
