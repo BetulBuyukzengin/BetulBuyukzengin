@@ -53,7 +53,7 @@
 <img src="https://mwskwong.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fq95r71b1uue1%2FCZM8YFlF9RPBFqn4IW1km%2F0e94db87e05fce62f3bc64f03165402d%2Fvercel_cover_photo.png&w=1080&q=75" width="100" height="55"/>
 <img src="https://codesandbox.io/_next/image?url=%2Fnew%2Fimages%2Fbrand%2Fcodesandbox-logo.jpg&w=3840&q=75" width="60" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
-<img src="https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png" width="80" height="60" />
+<img src="https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png" width="45" height="45" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" /> -->
   
 </p>
