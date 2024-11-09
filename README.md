@@ -7,7 +7,7 @@
 
 * I continue my career as a frontend developer.
 
-* 💬  Ask me about  HTML, CSS, JavaScript, React JS
+* 💬  Ask me about  HTML, CSS, JavaScript, React JS, Next JS.
 
 * 📫  How to reach me **betul.bzengin@gmail.com**
 
