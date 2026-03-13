@@ -5,7 +5,7 @@
 
 * I am a graduate of Kütahya Dumlupınar University Computer Engineering.
 
-* I continue my career as a frontend developer.
+* I continue my career as a react native developer.
 
 * 💬  Ask me about JavaScript, React JS, Next JS, PHP, React Native.
 
